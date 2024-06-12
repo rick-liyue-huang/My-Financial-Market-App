@@ -1,0 +1,6 @@
+@My_Financial_Market_App.Server_HostAddress = http://localhost:5237
+
+GET {{My_Financial_Market_App.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

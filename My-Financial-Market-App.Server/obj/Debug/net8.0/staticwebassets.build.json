@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "W7VSfHZmp8fVL75G3upgFxoZDQWGoONpR8G03whQKX0=",
+  "Source": "My-Financial-Market-App.Server",
+  "BasePath": "_content/My-Financial-Market-App.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Projects\\My-Financial-Market-App\\my-financial-market-app.client\\my-financial-market-app.client.esproj",
+      "Version": 2,
+      "Source": "my-financial-market-app.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

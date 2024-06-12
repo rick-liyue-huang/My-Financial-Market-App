@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\My-Financial-Market-App.Server.props" />
+</Project>
